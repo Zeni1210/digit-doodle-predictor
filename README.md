@@ -148,7 +148,7 @@ streamlit-drawable-canvas
 
 ```bash
 # Clone the repository
-git clone https://github.com/Kadriye/mnist-streamlit-docker.git
+git clone https://github.com/Zeni1210/digit-doodle-predictor.git
 cd mnist-streamlit-docker
 
 # Build and run with Docker Compose
